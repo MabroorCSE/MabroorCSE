@@ -9,7 +9,7 @@
 - Built FFN, CNN (98% on MNIST), and graph neural network models
 
 ### Projects
-- **RL practice:** Q-learning → REINFORCE → PPO on Frozen Lake
+- **[rl-wildfire-agent](https://github.com/MabroorCSE/rl-wildfire-agent):** Q-learning, REINFORCE and PPO from scratch, Cell-DEVS fire-spread model in C++, heading toward an RL wildfire-suppression agent
 - **[f1-controller](https://github.com/MabroorCSE/f1-controller):** Arduino LED shift-light for sim racing, with demo videos
 - **[solar-system-simulator](https://github.com/MabroorCSE/solar-system-simulator):** orbital simulation
 
